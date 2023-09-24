@@ -4,16 +4,16 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full md:h-screen pt-40 text-justify h-screen text-white bg-gradient-to-b from-blue-950 to-black"
+      className="lg:w-full lg:h-screen pt-56 text-justify text-white bg-gradient-to-b from-blue-950 to-black"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
+        <div className="pb-4">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
         </div>
 
-        <p className=" text-xl mt-20">
+        <p className=" text-xl sm:mt-18 lg:mt-20">
           Greetings! I'm Fikran, a Java backend developer who finds joy in the
           world of programming. My specialization lies in Java, and I'm
           fortunate to have experience with tools like Spring Boot and ZK
