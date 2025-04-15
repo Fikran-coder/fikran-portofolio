@@ -50,7 +50,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/MyResume.pdf",
+      href: "/Muhammad Fikran - Resume Q1 2025.pdf",
       style: "rounded-br-md",
       download: true,
     },
